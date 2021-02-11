@@ -1,2 +1,2 @@
-# AS5210
+# AST5210
 Stellar Atmospheres I 
